@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Will_It_End/Assets/AmmoPerk.cs.meta
+guid: 9d2540f33933e1549bb638d5cc61a892
+========
+guid: b5a858f469043887d9c85714c5c1f829
+>>>>>>>> origin/dev:Will_It_End/Assets/playerInputscript.cs.meta
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
