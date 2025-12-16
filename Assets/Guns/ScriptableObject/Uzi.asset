@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 74b0f8b02a4a44e6a98fd018a3120062, type: 3}
+  m_Name: Uzi
+  m_EditorClassIdentifier: 
+  Type: 2
+  Name: Uzi
+  ModelPrefab: {fileID: 5150665950321156705, guid: 92faa6dc663f01244a7bccccc8c7dea4, type: 3}
+  GunIcon: {fileID: 21300000, guid: 916d4fde12eb2d5459bbae69fc3792aa, type: 3}
+  SpawnPoint: {x: -0.65, y: 0.528, z: 0}
+  SpawnRotation: {x: 0, y: 0, z: 0}
+  DamageConfig: {fileID: 11400000, guid: a073695d66a20453cbf9cc0a30e89a7d, type: 2}
+  ShootConfig: {fileID: 11400000, guid: 71215ebb6231e5ddf9369596ddac99c7, type: 2}
+  TrailConfig: {fileID: 11400000, guid: 73cf087825e671188929c8f30f42b0f2, type: 2}
+  AmmoConfig: {fileID: 11400000, guid: 11ec77a28e3ff63e4b4eeca46d7d029e, type: 2}
+  AudioConfig: {fileID: 11400000, guid: 694c5229023f8ee14bc60245a0a2eb2f, type: 2}
+  IsReloading: 0

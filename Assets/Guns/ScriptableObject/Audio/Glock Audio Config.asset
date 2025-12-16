@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f216b55bd8c94c5da6282555961e6ff5, type: 3}
+  m_Name: Glock Audio Config
+  m_EditorClassIdentifier: 
+  Volume: 1
+  FireClips:
+  - {fileID: 8300000, guid: b78934fec22a0374dad7da4f89fe53fd, type: 3}
+  - {fileID: 8300000, guid: 9bcfd9acfbbf52a45949f983af546d6f, type: 3}
+  ReloadClip: {fileID: 8300000, guid: b600cfe45cde4f44ba14e9ac32270727, type: 3}
+  EmptyClip: {fileID: 8300000, guid: 668bdc0de0b00c345ae69d50debdec60, type: 3}
+  LastBulletClip: {fileID: 8300000, guid: b78934fec22a0374dad7da4f89fe53fd, type: 3}

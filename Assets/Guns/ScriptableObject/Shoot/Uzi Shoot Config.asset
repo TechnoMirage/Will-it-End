@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd34c463f8b40508227c664aa0b9a11, type: 3}
+  m_Name: Uzi Shoot Config
+  m_EditorClassIdentifier: 
+  HitMask:
+    serializedVersion: 2
+    m_Bits: 4294967295
+  FireRate: 0.1
+  RecoilRecoverySpeed: 1
+  MaxSpreadTime: 0.1
+  SpreadType: 1
+  Spread: {x: 0.03, y: 0.05, z: 0.03}
+  MinSpread: {x: 0.2, y: 0.2, z: 0.2}
+  SpreadMultiplier: 0.05
+  SpreadTexture: {fileID: 2800000, guid: f6efb4b026a43ef42baac4042765bd99, type: 3}
